@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="./dotted-portrait.png" width="300" alt="Dotted Portrait">
+  <img src="./portrait.png" width="300" alt="Dotted Portrait">
 </p>
 
 🔭 I am currently working on: Building strong programming fundamentals and developing practical web-based applications.<br><br> 🤝 I am looking to collaborate on: Open-source Java projects and innovative web development ideas.<br><br>  🆘 I am looking for help with: Mastering Data Structures and Algorithms (DSA) using Java, Python, and C++ for internship preparation.<br><br>  🌱 I am currently learning: Deep Learning (CNN), Data Analytics (IIT Patna), Advanced Java, and backend technologies.<br><br>  💬 Ask me about: Web Development (HTML/CSS), Java, Python, C programming, and beginner-friendly tech guidance.<br><br>  ⚡ Fun fact: I am pursuing a BS in Computer Science and Data Analytics from the Indian Institute of Technology Patna, actively exploring Machine Learning and Artificial Intelligence to grow in the tech industry.<br>
